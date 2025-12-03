@@ -1,0 +1,16 @@
+/* Custom styles for Expedera documentation */
+
+:root {
+  --md-primary-fg-color: #3f51b5;
+  --md-accent-fg-color: #536dfe;
+}
+
+.md-typeset h1 {
+  font-weight: 600;
+}
+
+.md-typeset h2 {
+  font-weight: 500;
+}
+
+/* Add custom styles here as needed */
